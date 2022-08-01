@@ -447,34 +447,34 @@ php artisan serve
 ```
 - 1. Register API: Verb:GET, URL:http://localhost:8000/api/register
 
-![Container](a.png)
+![Container](a1.png)
 
 - 2.Login API: Verb:GET, URL:http://localhost:8000/api/login
 
 
-![Container](a2png)
+![Container](a2.png)
 
 - 3.Product List API: Verb:GET, URL:http://localhost:8000/api/products
 
 
-![Container](a3png)
+![Container](a3.png)
 
 - 4. Product Create API: Verb:POST, URL:http://localhost:8000/api/products
 
 
-![Container](a4png)
+![Container](a4.png)
 
 - 5. Product Show API: Verb:GET, URL:http://localhost:8000/api/products/{id}
 
 
-![Container](a5png)
+![Container](a5.png)
 
 - 6. Product Update API: Verb:PUT, URL:http://localhost:8000/api/products/{id}
 
 
-![Container](a6png)
+![Container](a6.png)
 
 - 7. Product Delete API: Verb:DELETE, URL:http://localhost:8000/api/products/{id}
 
 
-![Container](a7png)
+![Container](a7.png)
